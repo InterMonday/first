@@ -4,7 +4,7 @@
 安装vscode以及git
 ### 第二步 配置名字、邮箱
 打开gitbash，配置你的全局名称以及邮箱(共同开发同一个项目时，方便找老六)
-> git config --global user.name "GitHub名字"
+> git config --global user.name "GitHub名字"  
 > git config --global user.email "GitHub邮箱"
 
 这里也可以为每一个项目进行不同的设置，去掉--global即可
